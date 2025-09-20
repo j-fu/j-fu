@@ -12,6 +12,8 @@
 - [LessUnitful.jl](https://github.com/j-fu/LessUnitful.jl): convenience tools to access quantities based on Unitful.jl and PhysicalConstants.jl in an "unitless" way
 - [ExampleJuggler.jl](https://github.com/j-fu/ExampleJuggler.jl): manage documentation examples and use them in unit tests
 - [Triangulate.jl](https://github.com/JuliaGeometry/Triangulate.jl),  [Triangle_jll.jl](https://github.com/JuliaBinaryWrappers/Trianglee_jll.jl):  Julia wrapper and binary package of the [Triangle](https://www.cs.cmu.edu/~quake/triangle.html) triangle mesh generator by J. Shewchuk
+### Under development
+- [PyBayesOpt.jl](https://github.com/j-fu/PyBayesOpt.jl): wrapper around the [BayesianOptimization](https://github.com/bayesian-optimization/BayesianOptimization) python package, and  implemenation of a  [BoTorch](https://botorch.org/) based q-batch Bayesian optimization code
 ### Various contributions
 - [TetGen.jl](https://github.com/JuliaGeometry/TetGen.jl),[TetGen_jll.jl](https://github.com/JuliaBinaryWrappers/TetGen_jll.jl): (co-maintained with [S. Danisch](https://github.com/SimonDanisch)):   Julia wrapper and binary package for the [TetGen](http://www.tetgen.org) tetrahedral mesh generator by H. Si.
 - [Sparspak.jl](https://github.com/PetrKryslUCSD/Sparspak.jl) by [P. Krysl](https://github.com/PetrKryslUCSD): sparse direct solver in pure Julia, contributed to its ability to handle general number types
